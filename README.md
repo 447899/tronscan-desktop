@@ -9,3 +9,7 @@
 <h4 align="center">
   Desktop App for <a href="https://tronscan.org">Tronscan.org</a>
 </h4>
+
+<p align="center">
+  <a href="releases">Releases</a> 
+</p>
