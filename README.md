@@ -11,5 +11,5 @@
 </h4>
 
 <p align="center">
-  <a href="releases">Releases</a> 
+  <a href="https://github.com/tronscan/tronscan-desktop/releases">Releases</a> 
 </p>
