@@ -11,5 +11,5 @@
 </h4>
 
 <p align="center">
-  <a href="https://github.com/tronscan/tronscan-desktop/releases">Releases</a> 
+  This project is no longer maintained and Ledger support has been added to Tronscan Web, please use <a href="https://tronscan.org">Tronscan.org</a>
 </p>
